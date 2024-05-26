@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "name": "Caroline Champlin",
+    "phone": "1-887-508-9233 x5654",
+    "email": "Else33@hotmail.com",
+    "job": "Dynamic Creative Officer"
+  },
+  {
+    "name": "Ms. Miriam Von DDS",
+    "phone": "1-621-456-4746 x014",
+    "email": "Jannie.Wiza27@hotmail.com",
+    "job": "Dynamic Response Coordinator"
+  },
+  {
+    "name": "Adrian Predovic",
+    "phone": "1-589-396-0179 x41445",
+    "email": "Imogene_Boehm@hotmail.com",
+    "job": "Human Factors Officer"
+  },
+  {
+    "name": "Jerry Boehm",
+    "phone": "1-677-244-7090",
+    "email": "Micheal.Dietrich53@yahoo.com",
+    "job": "Corporate Operations Designer"
+  },
+  {
+    "name": "Bob Wintheiser",
+    "phone": "(583) 643-9210 x90963",
+    "email": "Bill.Zieme@yahoo.com",
+    "job": "Dynamic Configuration Analyst"
+  },
+  {
+    "name": "Wesley Crooks-Kovacek",
+    "phone": "(765) 718-0125 x4812",
+    "email": "Royal_Lynch29@yahoo.com",
+    "job": "Principal Marketing Planner"
+  }
+]

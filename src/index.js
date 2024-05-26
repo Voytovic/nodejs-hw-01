@@ -1,2 +1,0 @@
-// dispatchEvent
-// hello world
